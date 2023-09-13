@@ -1,0 +1,2 @@
+INSERT INTO todo(id,todo,category,priority,status,due_date) VALUES(1,"Learn Node JS","HIGH","IN PROGRESS","LEARNING","2021-03-16"),
+(2,"Buy a Car","MEDIUM","TO DO","HOME","2021-09-22"),(3,"Study","LOW","DONE","WORK","2023-06-12");
